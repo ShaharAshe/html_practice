@@ -2,6 +2,6 @@
 # html-template
 A started template for HTML project
 
-<h1>Your Name(s) Here</h1>
-<p>Email (as appearing in moodle): student@hac.ac.il</p>
-
+<h1>Shahar Asher</h1>
+<p><u>Email (as appearing in moodle)</u>: shaharas@edu.hac.ac.il</p>
+<p><u>Id</u>: 209305408</p>
