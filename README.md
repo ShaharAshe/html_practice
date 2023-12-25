@@ -3,5 +3,5 @@
 A started template for HTML project
 
 <h1>Shahar Asher</h1>
-<p><u>Email (as appearing in moodle)</u>: shaharas@edu.hac.ac.il</p>
-<p><u>Id</u>: 209305408</p>
+<p>Email (as appearing in moodle): shaharas@edu.hac.ac.il</p>
+<p>Id: 209305408</p>
